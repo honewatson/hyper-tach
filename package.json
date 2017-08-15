@@ -1,0 +1,17 @@
+{
+  "name": "hyperapp-starter",
+  "version": "0.0.1",
+  "author": "Jorge Bucaran",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babelify": "^7.3.0",
+    "browserify": "^14.4.0",
+    "hyperapp": "^0.9.3"
+  }
+}
